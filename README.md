@@ -1,6 +1,6 @@
 # Python_WIFI_PASSWORD_HACK
 
-<h1 style='color: red,font: bold'> CMD </h1>
+<h1 style='color: red'> CMD </h1>
 
 ```
 netsh wlan show profiles
